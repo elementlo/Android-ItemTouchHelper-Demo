@@ -1,3 +1,7 @@
+##Fork from the library below
+Update the gradle to suit current development environment , and now it can run with the 3.1 AS , be comfortable to ask questions :)
+
+
 ## Another drag and swipe library?
 
 This project is an example of basic drag & drop and swipe-to-dismiss with `RecyclerView` using `ItemTouchHelper`. It corresponds with an article series found here:
